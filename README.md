@@ -84,10 +84,4 @@ Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request si tienes ideas para mejoras.
 
 Licencia
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-### Notas
-
-- **Estructura del Proyecto**: Asegúrate de que los nombres de los archivos y directorios mencionados en el README coincidan con los de tu proyecto.
-- **Personalización**: Ajusta el texto según las características específicas de tu implementación y cualquier modificación que desees incluir.
-- **Licencia**: Incluye un archivo `LICENSE` si deseas especificar una licencia para tu proyecto.
+Libre de uso
