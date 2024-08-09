@@ -1,0 +1,11 @@
+configurations:
+- extension: xlsx
+  filename: '*'
+  folder: C:/Users/Nestor/Desktop/Archivos
+- extension: '*'
+  filename: AIR
+  folder: C:/Users/Nestor/Desktop/Archivos
+- extension: MIR
+  filename: '*'
+  folder: C:/Users/Nestor/Desktop/Archivos
+wait_time: 6
