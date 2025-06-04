@@ -45,8 +45,9 @@ def process_files():
                 result = upload_file_to_server(file_path)
                 print(result)
                 move_file_to_sent_folder(file_path)
-            
-            time.sleep(wait_time)  # Espera el tiempo especificado antes de continuar
+
+        # Espera el tiempo especificado antes de comenzar la próxima iteración
+        time.sleep(wait_time)
 
 if __name__ == '__main__':
     process_files()
